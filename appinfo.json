@@ -5,10 +5,17 @@
     ],
     "companyName": "uros.erste@gmail.com",
     "enableMultiJS": true,
-    "longName": "G Stripe",
+    "longName": "Grey Stripe",
     "projectType": "native",
     "resources": {
         "media": [
+            {
+                "file": "images/grey_stripe.png",
+                "menuIcon": true,
+                "name": "IMAGE_PREVIEW",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
             {
                 "file": "fonts/Open 24 Display St.ttf",
                 "name": "FONT_OPEN_17",
@@ -26,18 +33,11 @@
                 "name": "BACKGROUND",
                 "targetPlatforms": null,
                 "type": "bitmap"
-            },
-            {
-                "file": "images/grey_stripe.png",
-                "menuIcon": true,
-                "name": "PREVIEW_G_STRIPE",
-                "targetPlatforms": null,
-                "type": "bitmap"
             }
         ]
     },
     "sdkVersion": "3",
-    "shortName": "G Stripe",
+    "shortName": "Grey Stripe",
     "targetPlatforms": [
         "aplite",
         "basalt",
