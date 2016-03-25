@@ -1,0 +1,51 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "uros.erste@gmail.com",
+    "enableMultiJS": true,
+    "longName": "G Stripe",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Open 24 Display St.ttf",
+                "name": "FONT_OPEN_17",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/Open 24 Display St.ttf",
+                "name": "FONT_OPEN_60",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "images/background.png",
+                "name": "BACKGROUND",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/grey_stripe.png",
+                "menuIcon": true,
+                "name": "PREVIEW_G_STRIPE",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "G Stripe",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "518e4a2a-906f-467d-95d6-6fd34ab51974",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
